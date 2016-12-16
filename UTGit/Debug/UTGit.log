@@ -1,0 +1,4 @@
+﻿  CA4-810195427.c
+c:\users\ali\documents\visual studio 2015\projects\utgit\utgit\ca4-810195427.c(56): warning C4101: 'p1': unreferenced local variable
+c:\users\ali\documents\visual studio 2015\projects\utgit\utgit\ca4-810195427.c(448): warning C4101: 'p1': unreferenced local variable
+  UTGit.vcxproj -> C:\Users\Ali\Documents\Visual Studio 2015\Projects\UTGit\Debug\UTGit.exe
